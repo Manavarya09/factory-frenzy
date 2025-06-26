@@ -1,0 +1,29 @@
+{
+  "width": 32,
+  "height": 18,
+  "tiles": [
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["WATER", "WATER", "WATER", "WATER", "WATER", "WATER", "WATER", "WATER", "WATER", "WATER", "WATER", "WATER", "WATER", "WATER", "WATER", "WATER", "WATER", "WATER"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "ORE", "ORE", "ORE", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "ORE", "ORE", "ORE", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"],
+    ["LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND", "LAND"]
+  ],
+  "entities": [
+    {"type": "Miner", "x": 2, "y": 4},
+    {"type": "Conveyor", "x": 3, "y": 4, "rotation": 0},
+    {"type": "Assembler", "x": 4, "y": 4}
+  ]
+}

@@ -1,0 +1,11 @@
+apply plugin: 'java'
+
+sourceCompatibility = JavaVersion.VERSION_17
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "com.badlogicgames.gdx:gdx:1.12.0"
+} 
